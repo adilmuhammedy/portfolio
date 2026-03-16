@@ -115,7 +115,7 @@ projects: [
       "Integrated ML model inference with frontend APIs for seamless prediction workflows."
     ],
     tech: ["React.js", "FastAPI", "Python", "Machine Learning", "TailwindCSS"],
-    link: "#",
+    link: "https://size-assist-fe.vercel.app/",
   },
   {
   title: "Vehicle Companion Mobile App for In-Vehicle App Store (PoC)",
